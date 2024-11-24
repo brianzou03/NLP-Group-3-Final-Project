@@ -19,7 +19,6 @@ Preprocessing/finalized-data - a collection of finalized usable data for modelin
 python3 -m venv myenv
 source myenv/bin/activate
 pip install -r requirements.txt
-
 ```
 2. Install requirements
 ```
