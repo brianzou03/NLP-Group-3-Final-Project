@@ -1,0 +1,221 @@
+[Congressional Bills 118th Congress]
+[From the U.S. Government Publishing Office]
+[S. 4365 Reported in Senate (RS)]
+
+<DOC>
+
+
+
+
+
+                                                       Calendar No. 563
+118th CONGRESS
+  2d Session
+                                S. 4365
+
+                          [Report No. 118-248]
+
+   To provide public health veterinary services to Indian Tribes and 
+  Tribal organizations for rabies prevention, and for other purposes.
+
+
+_______________________________________________________________________
+
+
+                   IN THE SENATE OF THE UNITED STATES
+
+                              May 16, 2024
+
+ Ms. Murkowski (for herself, Mr. Schatz, and Mr. Heinrich) introduced 
+the following bill; which was read twice and referred to the Committee 
+                           on Indian Affairs
+
+                           November 18, 2024
+
+                Reported by Mr. Schatz, with amendments
+ [Omit the parts struck through and insert the parts printed in italic]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+
+ 
+   To provide public health veterinary services to Indian Tribes and 
+  Tribal organizations for rabies prevention, and for other purposes.
+
+    Be it enacted by the Senate and House of Representatives of the 
+United States of America in Congress assembled,
+
+SECTION 1. SHORT TITLE.
+
+    This Act may be cited as the ``Veterinary Services to Improve 
+Public Health in Rural Communities Act''.
+
+<DELETED>SEC. 2. FINDINGS; SENSE OF CONGRESS.</DELETED>
+
+<DELETED>    (a) Findings.--Congress finds that--</DELETED>
+        <DELETED>    (1) human, animal, and environmental health are 
+        interdependent in Native communities, Alaska Native villages, 
+        and on Indian reservations, and holistic approaches to the 
+        well-being of all individuals will lead to improved health 
+        outcomes and enhanced resilience;</DELETED>
+        <DELETED>    (2) uncontrolled animal populations and a lack of 
+        veterinary care in Native communities, Alaska Native villages, 
+        and on Indian reservations increase the risk of parasites and 
+        zoonotic diseases, dog bites, food insecurity, and mental 
+        health issues among Alaska Natives and American 
+        Indians;</DELETED>
+        <DELETED>    (3) dog bites and other injuries are common in 
+        rural areas in the State of Alaska, with the Norton Sound 
+        Health Corporation reporting an average of 87 bites per year in 
+        the Bering Strait region between 2016 and 2023, and the Yukon-
+        Kuskokwim Health Corporation reporting an average of 98 bites 
+        per year in the Yukon-Kuskokwim Delta region between 2008 and 
+        2017;</DELETED>
+        <DELETED>    (4) Alaska Native children have the highest 
+        incidence of hospitalization for dog bites in the Indian Health 
+        Service system;</DELETED>
+        <DELETED>    (5) in 2021, St. Lawrence Island, Alaska, 
+        experienced co-occurring outbreaks of rabies and canine 
+        distemper;</DELETED>
+        <DELETED>    (6) canine distemper is almost 100 percent fatal 
+        in marine mammals, which the people of the Native Villages of 
+        Savoonga and Gambell rely on heavily as a food 
+        source;</DELETED>
+        <DELETED>    (7) rabies is enzootic in arctic and red fox 
+        populations in the northern and western coastal regions of the 
+        State of Alaska;</DELETED>
+        <DELETED>    (8) wildlife outbreaks occur cyclically, and there 
+        have been increased human exposures to rabid animals between 
+        2020 and 2023;</DELETED>
+        <DELETED>    (9) rabies transmission is a significant threat in 
+        Alaska Native communities and villages; and</DELETED>
+        <DELETED>    (10) as of 2024, the Indian Health Service does 
+        not employ or use public health veterinarians to combat 
+        zoonotic disease outbreaks or to generally advance public 
+        health preparedness for Native communities, Alaska Native 
+        villages, or Indian reservations, including by providing spay 
+        and neuter services and vaccinations for animals.</DELETED>
+<DELETED>    (b) Sense of Congress.--It is the sense of Congress that 
+the Indian Health Service of the Department of Health and Human 
+Services is uniquely suited to empower Indian Tribes and Tribal 
+organizations to address zoonotic disease threats in the communities 
+they serve by providing public health veterinary services through a One 
+Health approach that recognizes the interconnection between people, 
+animals, plants, and their shared environment.</DELETED>
+
+SEC. 2. SENSE OF CONGRESS.
+
+    It is the sense of Congress that the Indian Health Service of the 
+Department of Health and Human Services is uniquely suited to empower 
+Indian Tribes and Tribal organizations to address zoonotic disease 
+threats in the communities they serve by providing public health 
+veterinary services through a One Health approach that recognizes the 
+interconnection between people, animals, plants, and their shared 
+environment.
+
+SEC. 3. PUBLIC HEALTH VETERINARY SERVICES.
+
+    Title II of the Indian Health Care Improvement Act is amended by 
+inserting after section 223 (25 U.S.C. 1621v) the following:
+
+``SEC. 224. PUBLIC HEALTH VETERINARY SERVICES.
+
+    ``(a) Definitions.--In this section:
+            ``(1) Public health veterinary services.--The term `public 
+        health veterinary services' includes any of the following:
+                    ``(A) spaying and neutering services for domestic 
+                animals;
+                    ``(B) diagnoses;
+                    ``(C) surveillance;
+                    ``(D) epidemiology;
+                    ``(E) control;
+                    ``(F) prevention;
+                    ``(G) elimination;
+                    ``(H) vaccination; and
+                    ``(I) any other related service or activity that 
+                reduces the risk of zoonotic disease transmission or 
+                antimicrobial resistance in humans, food, or animals.
+            ``(2) Zoonotic disease.--The term `zoonotic disease' means 
+        a disease or infection that may be transmitted naturally from 
+        vertebrate animals to humans, or from humans to vertebrate 
+        animals.
+    ``(b) Authorization for Veterinary Services.--The Secretary, acting 
+through the Service, may expend funds, directly or pursuant to the 
+Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 
+et seq.), for public health veterinary services to prevent and control 
+of zoonotic disease infection and transmission in Service areas where 
+the risk for disease occurrence in humans and wildlife is endemic.
+<DELETED>    ``(c) Public Health Officers.--In providing public health 
+veterinary services under subsection (b), the Secretary shall deploy 
+veterinary public health officers from the Commissioned Corps of the 
+Public Health Service to Service areas.</DELETED>
+<DELETED>    ``(d) Coordination.--The Secretary, acting through the 
+Service, shall carry out this section in coordination with--</DELETED>
+        <DELETED>    ``(1) the Director of the Centers for Disease 
+        Control and Prevention; and</DELETED>
+        <DELETED>    ``(2) the Secretary of Agriculture.</DELETED>
+    ``(c) Public Health Officers; Coordination.--In providing public 
+health veterinary services under subsection (b), the Secretary may--
+            ``(1) assign or deploy veterinary public health officers 
+        from the Commissioned Corps of the Public Health Service to 
+        Service areas; and
+            ``(2) coordinate and implement activities with--
+                    ``(A) the Director of the Centers for Disease 
+                Control and Prevention; and
+                    ``(B) the Secretary of Agriculture.
+    ``(e)(d) Report.--The Secretary shall submit to the Committee on 
+Indian Affairs of the Senate, the Committee on Health, Education, 
+Labor, and Pensions of the Senate, the Committee on Natural Resources 
+of the House of Representatives, and the Committee on Energy and 
+Commerce of the House of Representatives a biennial report on the use 
+of funds, the assignment and deployment of veterinary public health 
+officers from the Commissioned Corps of the Public Health Service, data 
+related to the monitoring and disease surveillance of zoonotic 
+diseases, and related services provided under this section.''.
+
+SEC. 4. APHIS WILDLIFE SERVICES STUDY ON ORAL RABIES VACCINES IN ARCTIC 
+              REGIONS OF THE UNITED STATES.
+
+    Not later than 1 year after the date of enactment of this Act, the 
+Secretary of Agriculture shall conduct a feasibility study--
+            (1) on the delivery of oral rabies vaccines to wildlife 
+        reservoir species that are directly or indirectly connected to 
+        the transmission of rabies to Tribal members living in Arctic 
+        regions of the United States; and
+            (2) that--
+                    (A) evaluates the efficacy of the vaccines 
+                described in paragraph (1); and
+                    (B) makes recommendations to improve the delivery 
+                of those vaccines.
+
+SEC. 5. ONE HEALTH FRAMEWORK.
+
+    Section 2235(b) of the Prepare for and Respond to Existing Viruses, 
+Emerging New Threats, and Pandemics Act (42 U.S.C. 300hh-37(b)) is 
+amended by striking ``and the Secretary of the Interior'' and inserting 
+``, the Secretary of the Interior, and the Director of the Indian 
+Health Service''.
+                                                       Calendar No. 563
+
+118th CONGRESS
+
+  2d Session
+
+                                S. 4365
+
+                          [Report No. 118-248]
+
+_______________________________________________________________________
+
+                                 A BILL
+
+   To provide public health veterinary services to Indian Tribes and 
+  Tribal organizations for rabies prevention, and for other purposes.
+
+_______________________________________________________________________
+
+                           November 18, 2024
+
+                        Reported with amendments
